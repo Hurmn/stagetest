@@ -1,0 +1,15 @@
+C:\Users\harme\source\repos\stagetest\stagetest\bin\Debug\net6.0\stagetest.exe
+C:\Users\harme\source\repos\stagetest\stagetest\bin\Debug\net6.0\stagetest.deps.json
+C:\Users\harme\source\repos\stagetest\stagetest\bin\Debug\net6.0\stagetest.runtimeconfig.json
+C:\Users\harme\source\repos\stagetest\stagetest\bin\Debug\net6.0\stagetest.dll
+C:\Users\harme\source\repos\stagetest\stagetest\bin\Debug\net6.0\stagetest.pdb
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.csproj.AssemblyReference.cache
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.AssemblyInfoInputs.cache
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.AssemblyInfo.cs
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.csproj.CoreCompileInputs.cache
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.dll
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\refint\stagetest.dll
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.pdb
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\stagetest.genruntimeconfig.cache
+C:\Users\harme\source\repos\stagetest\stagetest\obj\Debug\net6.0\ref\stagetest.dll
